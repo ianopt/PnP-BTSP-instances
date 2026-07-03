@@ -1,0 +1,3 @@
+Instance,N_Runs,Mean_IP_Optimum_ms,Mean_LP_Bound_ms,Mean_Integrality_Gap_pct,Std_Integrality_Gap_pct
+Case3_40x40 (Case 3),10,883443,881411.9,0.22966487295816113,0.1102027511746714
+Case1_10x10 (Case 1),10,235221,228840.1,2.7256069257863427,1.1687988288240814

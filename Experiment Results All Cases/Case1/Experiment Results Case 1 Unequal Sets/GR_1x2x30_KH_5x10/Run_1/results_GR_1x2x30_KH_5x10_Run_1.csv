@@ -1,0 +1,6 @@
+Gravity Rack,Kit Holder,Run,Method,Cost,Exec time,Optimality Gap (%)
+1x2x30,5x10,1,Nearest,1057888,2.1248,2.46
+1x2x30,5x10,1,2-opt,1045660,39.8408,1.27
+1x2x30,5x10,1,Q-learning,1066696,19692.855,3.31
+1x2x30,5x10,1,Exact_cbc,1032522,5358.5549,
+1x2x30,5x10,1,Exact_cplex,1032522,2042.1831,
